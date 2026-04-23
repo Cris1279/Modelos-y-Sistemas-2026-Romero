@@ -1,0 +1,49 @@
+====================================================
+E.E.S.T. N°1 MUÑIZ - MODELOS Y SISTEMAS
+PROFESOR: OMAR ALEJANDRO BAZAR | CURSO: 7° 4°
+====================================================
+REPORTE TP N°1: TGS
+FECHA: 23/4/2026, 6:55:23 p.m. | EQUIPO N°: 1
+REPOSITORIO: https://github.com/Cris1279/Modelos-y-Sistemas-2026-Romero
+====================================================
+
+CARGO: LÍDER TÉCNICO
+INTEGRANTE: Romero Cristian
+----------------------------------------------------
+El Pensamiento Sistémico, según Ludwig von Bertalanffy, le da al líder una forma mucho más completa de ver un proyecto, alejándose del enfoque reduccionista que analiza todo por separado. En vez de ver solo programadores o tareas sueltas, entiende que un equipo de desarrollo es un conjunto de interacciones dinámicas donde todo está conectado.
+
+Esto se relaciona con el concepto de Holismo, donde el todo es más que la suma de las partes. En un proyecto, no alcanza con que cada módulo funcione bien por separado, sino que lo importante es cómo se integran y se comunican entre sí. Un sistema puede fallar no por un error individual, sino por un problema en el flujo entre partes.
+
+Además, el líder usa esta visión para detectar cuellos de botella, pero no como errores aislados, sino como fallas dentro de la estructura general del sistema. Por ejemplo, un retraso puede no ser culpa de una persona, sino de mala organización o comunicación.
+
+También entra en juego la organización jerárquica, donde el proyecto es un subsistema dentro de algo más grande (empresa, cliente). Esto obliga al líder a pensar más allá del código, viendo cómo cada cambio impacta en tiempos, costos y motivación del equipo.
+
+La teleología (objetivo del sistema) es clave: todo el equipo debe apuntar al mismo fin. El líder se asegura de que las decisiones mantengan ese objetivo, incluso frente a cambios o problemas externos.
+
+En resumen, el pensamiento sistémico permite coordinar mejor los subsistemas humanos y técnicos, anticipar problemas y evitar la entropía (desorden), manteniendo el proyecto organizado, estable y enfocado en su objetivo.
+----------------------------------------------------
+
+CARGO: ANALISTA FUNCIONAL
+INTEGRANTE: SIN NOMBRE
+----------------------------------------------------
+
+----------------------------------------------------
+
+CARGO: PROGRAMADOR SENIOR
+INTEGRANTE: SIN NOMBRE
+----------------------------------------------------
+
+----------------------------------------------------
+
+CARGO: PROGRAMADOR JUNIOR
+INTEGRANTE: SIN NOMBRE
+----------------------------------------------------
+
+----------------------------------------------------
+
+CARGO: QA / TESTER
+INTEGRANTE: SIN NOMBRE
+----------------------------------------------------
+
+----------------------------------------------------
+
