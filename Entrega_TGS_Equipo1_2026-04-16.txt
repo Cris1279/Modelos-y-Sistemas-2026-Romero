@@ -1,0 +1,169 @@
+══════════════════════════════════════════════════════════════════
+ENTREGA OFICIAL - TEORÍA GENERAL DE SISTEMAS (BERTALANFFY)
+══════════════════════════════════════════════════════════════════
+
+Institución: E.E.S.T. N°1 de Muñiz | Curso: 7° 4°
+Cátedra: Modelos y Sistemas | Docente: Prof. Omar Alejandro Bazar
+Fecha de generación: 16/4/2026, 06:45:27
+Estudiante: Equipo1
+Consignas respondidas: 20/20
+
+──────────────────────────────────────────────────────────────────
+DESARROLLO DE RESPUESTAS
+──────────────────────────────────────────────────────────────────
+
+▶ CONSIGNA 1:
+Explique la crítica epistemológica de Bertalanffy al reduccionismo clásico y cómo afecta el diseño de software moderno.
+
+RESPUESTA DEL ESTUDIANTE:
+Bertalanffy cuestiona el enfoque tradicional de la ciencia que analizaba los fenómenos de manera fragmentada. Sostiene que este método es insuficiente, ya que lo verdaderamente importante es comprender las relaciones e interacciones entre las partes. En el desarrollo de software ocurre lo mismo: no basta con analizar funciones aisladas, sino que se debe entender el sistema en su conjunto.
+─────────────────────────────────────────────────────────────────
+
+▶ CONSIGNA 2:
+¿Por qué la sumatoria de elementos aislados es insuficiente para explicar el comportamiento de un sistema complejo?
+
+RESPUESTA DEL ESTUDIANTE:
+Un sistema complejo presenta propiedades emergentes, es decir, características que aparecen únicamente cuando sus componentes interactúan. Por lo tanto, el sistema no puede explicarse simplemente como la suma de sus partes.
+─────────────────────────────────────────────────────────────────
+
+▶ CONSIGNA 3:
+Defina entropía según la Segunda Ley de la Termodinámica y proporcione un ejemplo de su manifestación en sistemas informáticos.
+
+RESPUESTA DEL ESTUDIANTE:
+La entropía es la tendencia natural al desorden en un sistema cerrado.
+Ejemplo: un sistema informático sin mantenimiento tiende a generar errores, desorganización de datos y pérdida de eficiencia.
+─────────────────────────────────────────────────────────────────
+
+▶ CONSIGNA 4:
+¿Qué destino le aguarda a un sistema cerrado según los principios termodinámicos y cómo se traduce esto en ingeniería de software?
+
+RESPUESTA DEL ESTUDIANTE:
+Según la termodinámica, un sistema cerrado evoluciona hacia un estado de equilibrio máximo, donde cesan los cambios. En términos prácticos, esto implica su deterioro o desaparición. En informática, sería un sistema que deja de actualizarse y queda obsoleto.
+─────────────────────────────────────────────────────────────────
+
+▶ CONSIGNA 5:
+Explique el concepto de Neguentropía propuesto por Schrödinger y cómo se aplica a la importación de datos o energía en un sistema.
+
+RESPUESTA DEL ESTUDIANTE:
+La neguentropía es el proceso opuesto a la entropía: consiste en incorporar energía o información para mantener el orden interno del sistema.
+Ejemplo: actualizaciones, mantenimiento y mejora continua de un software.
+─────────────────────────────────────────────────────────────────
+
+▶ CONSIGNA 6:
+¿Por qué los sistemas robustos deben intercambiar información con su entorno para evitar el caos informativo?
+
+RESPUESTA DEL ESTUDIANTE:
+Los sistemas necesitan interactuar con su entorno para mantenerse organizados y funcionales. Sin este intercambio de información, se vuelven obsoletos. Actualmente, esto se observa en sistemas conectados mediante redes, APIs y servicios web.
+─────────────────────────────────────────────────────────────────
+
+▶ CONSIGNA 7:
+Describa la Jerarquía de Complejidad de Boulding y ubique tres niveles aplicables a componentes de software actuales.
+
+RESPUESTA DEL ESTUDIANTE:
+Según Boulding, los sistemas se organizan en distintos niveles:
+Nivel bajo: sistemas simples (ejemplo: base de datos)
+Nivel intermedio: sistemas con control (ejemplo: backend)
+Nivel alto: sistemas complejos (ejemplo: redes distribuidas o plataformas completas)
+─────────────────────────────────────────────────────────────────
+
+▶ CONSIGNA 8:
+¿Por qué es peligroso tratar una arquitectura distribuida como una 'calculadora lineal' desde la perspectiva de la TGS?
+
+RESPUESTA DEL ESTUDIANTE:
+Tratar un sistema complejo como si fuera simple puede llevar a errores de diseño, ya que se ignoran sus interacciones y dependencias. Por ejemplo, una arquitectura de microservicios no puede analizarse como una estructura lineal.
+─────────────────────────────────────────────────────────────────
+
+▶ CONSIGNA 9:
+Defina isomorfismo estructural y dé un ejemplo claro de correspondencia entre un sistema biológico y una arquitectura técnica.
+
+RESPUESTA DEL ESTUDIANTE:
+El isomorfismo se refiere a la existencia de estructuras similares en distintos sistemas.
+Ejemplo: la comparación entre el sistema circulatorio y una red de transmisión de datos.
+─────────────────────────────────────────────────────────────────
+
+▶ CONSIGNA 10:
+¿Cómo el modelado de un sistema de control de stock refleja leyes de flujo observadas originalmente en sistemas hidrodinámicos?
+
+RESPUESTA DEL ESTUDIANTE:
+Un sistema de control de stock puede compararse con un flujo continuo: los productos ingresan y egresan, de manera similar al comportamiento de líquidos en tuberías.
+─────────────────────────────────────────────────────────────────
+
+▶ CONSIGNA 11:
+Explique por qué el código fuente puede considerarse una representación abstracta de interacciones isomórficas.
+
+RESPUESTA DEL ESTUDIANTE:
+El código fuente representa las interacciones entre los componentes de un sistema. No es solo texto, sino un modelo abstracto del funcionamiento del sistema.
+─────────────────────────────────────────────────────────────────
+
+▶ CONSIGNA 12:
+¿Qué papel juega la identificación de patrones recurrentes entre dominios en la optimización de arquitecturas?
+
+RESPUESTA DEL ESTUDIANTE:
+La identificación de patrones permite reutilizar soluciones ya comprobadas, optimizando el diseño y reduciendo errores en el desarrollo de software.
+─────────────────────────────────────────────────────────────────
+
+▶ CONSIGNA 13:
+Analice por qué la introducción del feedback revolucionó la Teoría General de los Sistemas.
+
+RESPUESTA DEL ESTUDIANTE:
+El feedback permite que un sistema se evalúe y corrija a sí mismo. Sin retroalimentación, no puede detectar errores ni mejorar su funcionamiento.
+─────────────────────────────────────────────────────────────────
+
+▶ CONSIGNA 14:
+¿Qué significa que un sistema sin retroalimentación sea un sistema 'ciego'? Aplíquelo a un servicio web sin métricas.
+
+RESPUESTA DEL ESTUDIANTE:
+Un sistema sin feedback es considerado “ciego”, ya que no tiene información sobre su propio estado.
+Ejemplo: una aplicación web sin métricas ni monitoreo.
+─────────────────────────────────────────────────────────────────
+
+▶ CONSIGNA 15:
+Describa cómo las estructuras de control en programación comparan el estado real con el estado deseado.
+
+RESPUESTA DEL ESTUDIANTE:
+En programación, esta comparación se realiza mediante estructuras de control, validaciones y monitoreo, que permiten verificar si el sistema funciona correctamente.
+─────────────────────────────────────────────────────────────────
+
+▶ CONSIGNA 16:
+Explique la autorregulación como mecanismo fundamental para el mantenimiento del estado estable frente a perturbaciones.
+
+RESPUESTA DEL ESTUDIANTE:
+La autorregulación es la capacidad de un sistema para ajustarse automáticamente frente a cambios o problemas.
+Ejemplo: sistemas que reducen carga o redistribuyen recursos ante alta demanda.
+─────────────────────────────────────────────────────────────────
+
+▶ CONSIGNA 17:
+¿Qué es el 'steady state' en sistemas abiertos y cómo lo mantiene un balanceador de carga o un auto-escalador?
+
+RESPUESTA DEL ESTUDIANTE:
+Es una condición en la cual el sistema mantiene su funcionamiento estable a pesar de cambios en el entorno.
+Ejemplo: un servidor que continúa operando eficientemente ante variaciones de tráfico.
+─────────────────────────────────────────────────────────────────
+
+▶ CONSIGNA 18:
+Diferencie claramente un sistema cerrado de un sistema abierto utilizando ejemplos de infraestructura tecnológica.
+
+RESPUESTA DEL ESTUDIANTE:
+Sistema cerrado: no interactúa con el entorno (ejemplo: programa offline).
+Sistema abierto: intercambia información con el entorno (ejemplo: aplicación web).
+─────────────────────────────────────────────────────────────────
+
+▶ CONSIGNA 19:
+¿Cómo la cibernética trasciende el concepto de 'control' para convertirse en capacidad de adaptación y persistencia?
+
+RESPUESTA DEL ESTUDIANTE:
+La cibernética no solo implica control, sino también adaptación y aprendizaje. Permite que los sistemas evolucionen y se mantengan en el tiempo.
+─────────────────────────────────────────────────────────────────
+
+▶ CONSIGNA 20:
+Sintetice cómo la Teoría General de Sistemas transforma la mentalidad del desarrollador: de programador lineal a arquitecto de sistemas adaptativos.
+
+RESPUESTA DEL ESTUDIANTE:
+La Teoría General de Sistemas transforma la forma de pensar del desarrollador, pasando de un enfoque lineal a una visión integral, donde se consideran las relaciones, la complejidad y la adaptación del sistema.
+─────────────────────────────────────────────────────────────────
+
+══════════════════════════════════════════════════════════════════
+FIN DEL ARCHIVO DE ENTREGA
+══════════════════════════════════════════════════════════════════
+Nota: Documento generado automáticamente por el sistema de evaluación TGS.
+Referencia: Bertalanffy, L. v. (1968). General System Theory. Braziller.
